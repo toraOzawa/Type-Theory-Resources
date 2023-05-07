@@ -18,6 +18,9 @@ A brief disclaimer that I have not gone through all of these comprehensively and
 The annotations below for the sources will include how much I have gone through and the remarks be tailored around that as well. 
 
 ## Introductory Material and "Main" Resources 
+### [Propositions as Types](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
+An amazing, brief introduction to the subject. It does a great job coheisvely covering some history on logic, the Curry-Howard Corresponedence, the relation between logic and computation, natural deduction, the lambda calculus and more. 
+
 ### [HoTTest Summer School](https://github.com/martinescardo/HoTTEST-Summer-School)
 A large online lecture series from the summer of 2022. Their tracks were "Homtopy Type Theory" and "Formalization in Agda", and I only really used the lectures
 from the Homotopy Type Theory track, as I was concurrently taking a seminar course on learning how to use Coq. This combination was quite nice because the Coq
