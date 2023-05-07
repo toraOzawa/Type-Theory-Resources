@@ -40,7 +40,13 @@ in my talk. This book is not as self-contained in the sense that some mathematic
 is needed. 
 
 ## Secondary Resources and alternate lists 
+These sources I did not use as directly within the scope of my independent study, but are certainly useful for learning about closely related topics and areas. 
+### [Oregon Programming Languges Summer School](https://www.cs.uoregon.edu/research/summerschool/summer23/)
+A great program that has been running yearly and uploading their lectures online. Lots of great sets of lectures which serves as great introductory material to topics such as proof theory, category theory, type theory. There are also intrigueing lectures on applications of type theory and related topics to specific computer science related domains. 
 
+### [learn-tt](https://github.com/jozefg/learn-tt/blob/master/README.md#learn-tt)
+### [Programming Language Theory](https://steshaw.org/plt/)
+Two lists of resources which I found useful and wish I had found earlier in my initial research, lots of sources on both mathematically related areas to type theory as well as the practical side of things. 
 
 ## Casual Resources 
 ### [Type Theory For all Podcast](https://www.typetheoryforall.com/)
